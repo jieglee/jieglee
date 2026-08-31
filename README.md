@@ -1,22 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF9EBB&height=200&section=header&text=Hi%20there!%20I'm%20Your%20Name%20👋&fontSize=38&fontColor=6D214F&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1DC,100:FF9EBB&height=200&section=header&text=Welcome%20to%20my%20little%20corner!%20%F0%9F%8E%80&fontSize=34&fontColor=6D214F&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=FF6FA0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%95;React+%7C+Next.js+%7C+Node.js;Building+cute+things+that+work+%E2%9C%A8;Always+learning+something+new+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&pause=1000&color=FF6FA0&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%8E%80;UI%2FUX+Designer+%F0%9F%8E%80;Turning+ideas+into+pretty+pixels+%E2%9C%A8;Powered+by+coffee+and+pink+things+%F0%9F%8D%93" alt="Typing SVG" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<p align="center">✧˖° ────── 🎀 ────── °˖✧</p>
 
 ## 🎀 About Me
 
-I love turning ideas into digital experiences that are both beautiful and functional — as a **Frontend Developer & UI/UX Designer**, I enjoy building responsive interfaces and simplifying complex problems into elegant solutions.
+> "she believed she could code it, so she did" 💌
 
-Currently expanding my knowledge in **Artificial Intelligence**, exploring how AI can make web apps smarter and more personal. 🌸
+Hii, welcome to my profile~ I'm a **Frontend Developer & UI/UX Designer** who loves turning ideas into digital experiences that are both beautiful *and* functional. Give me a messy problem and I'll turn it into something clean, simple, and pretty. ⋆｡°✩
 
-📫 Reach me at: **youremail@example.com**
+Right now I'm growing my sparkle in **Artificial Intelligence**, exploring how AI can make apps feel smarter and more personal. 🩷
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<p align="left">
+  💌 &nbsp;<b>Email</b> — youremail@example.com <br/>
+  🎀 &nbsp;<b>Currently building</b> — cute things that also work properly <br/>
+  ✨ &nbsp;<b>Currently learning</b> — AI & LLMs
+</p>
+
+<p align="center">✧˖° ────── 🎀 ────── °˖✧</p>
 
 ## 🧸 Tech Stack
 
@@ -92,7 +98,7 @@ Currently expanding my knowledge in **Artificial Intelligence**, exploring how A
   <img src="https://img.shields.io/badge/npm-FFB6C1?style=for-the-badge&logo=npm&logoColor=6D214F" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<p align="center">✧˖° ────── 🎀 ────── °˖✧</p>
 
 ## 🌷 GitHub Stats
 
@@ -109,7 +115,7 @@ Currently expanding my knowledge in **Artificial Intelligence**, exploring how A
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=juicyfresh&no-frame=true&row=1&column=6" />
 </div>
 
-## 🐍 Contribution Snake
+## 🐈‍⬛ Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/pink-snake.svg" width="100%" />
@@ -117,18 +123,18 @@ Currently expanding my knowledge in **Artificial Intelligence**, exploring how A
 
 > Snake ini butuh setup GitHub Actions sekali di repo `yourusername/yourusername` — bilang aja kalau mau gw bikinin workflow YAML-nya sekalian.
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<p align="center">✧˖° ────── 🎀 ────── °˖✧</p>
 
-## 🎗️ Let's Connect
+## 💌 Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-FF9EBB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=6D214F" /></a>
+  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=6D214F" /></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=6D214F" /></a>
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=ffb6c1&style=for-the-badge" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9EBB,100:FFD1DC&height=120&section=footer" width="100%"/>
