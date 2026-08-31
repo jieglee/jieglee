@@ -22,74 +22,74 @@ Currently expanding my knowledge in **Artificial Intelligence**, exploring how A
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/TypeScript-FFB6C1?style=for-the-badge&logo=typescript&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=6D214F" />
 </p>
 
 ### Frontend & Styling
 <p>
-  <img src="https://img.shields.io/badge/React-FF9EBB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-FFC1D9?style=for-the-badge&logo=shadcnui&logoColor=black" />
-  <img src="https://img.shields.io/badge/Material_UI-FF6FA0?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Next.js-FFB6C1?style=for-the-badge&logo=nextdotjs&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-FFB6C1?style=for-the-badge&logo=tailwindcss&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/shadcn/ui-FFB6C1?style=for-the-badge&logo=shadcnui&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Material_UI-FFB6C1?style=for-the-badge&logo=mui&logoColor=6D214F" />
 </p>
 
 ### Mobile
 <p>
-  <img src="https://img.shields.io/badge/React_Native-FFA6C9?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-FFB6C1?style=for-the-badge&logo=react&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Expo-FFB6C1?style=for-the-badge&logo=expo&logoColor=6D214F" />
 </p>
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-FFC0CB?style=for-the-badge&logo=express&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-FF8FAB?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-FB015B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/NextAuth.js-C026D3?style=for-the-badge&logo=auth0&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-FF7AA8?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-FFB6C1?style=for-the-badge&logo=nodedotjs&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Express.js-FFB6C1?style=for-the-badge&logo=express&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/REST_API-FFB6C1?style=for-the-badge&logo=fastapi&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/JWT-FFB6C1?style=for-the-badge&logo=jsonwebtokens&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/NextAuth.js-FFB6C1?style=for-the-badge&logo=auth0&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Zod-FFB6C1?style=for-the-badge&logo=zod&logoColor=6D214F" />
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-FF99C8?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-FFB3D9?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/PostgreSQL-FFB6C1?style=for-the-badge&logo=postgresql&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Supabase-FFB6C1?style=for-the-badge&logo=supabase&logoColor=6D214F" />
 </p>
 
 ### AI & Tools
 <p>
-  <img src="https://img.shields.io/badge/Ollama-FFDCE8?style=for-the-badge&logo=ollama&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-FFB6C1?style=for-the-badge&logo=ollama&logoColor=6D214F" />
 </p>
 
 ### DevOps & Deployment
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-FFD6E8?style=for-the-badge&logo=vercel&logoColor=black" />
-  <img src="https://img.shields.io/badge/Nginx-FF6FA0?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Docker-FFB6C1?style=for-the-badge&logo=docker&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Vercel-FFB6C1?style=for-the-badge&logo=vercel&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Nginx-FFB6C1?style=for-the-badge&logo=nginx&logoColor=6D214F" />
 </p>
 
 ### API Testing
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thunder_Client-FFA8CC?style=for-the-badge&logo=thunderbird&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FFB6C1?style=for-the-badge&logo=postman&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Thunder_Client-FFB6C1?style=for-the-badge&logo=thunderbird&logoColor=6D214F" />
 </p>
 
 ### Design
 <p>
-  <img src="https://img.shields.io/badge/Figma-FF7AB8?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FFB6C1?style=for-the-badge&logo=adobeillustrator&logoColor=6D214F" />
 </p>
 
 ### Editor & Package Manager
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-FFB6D9?style=for-the-badge&logo=npm&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-FFB6C1?style=for-the-badge&logo=visualstudiocode&logoColor=6D214F" />
+  <img src="https://img.shields.io/badge/npm-FFB6C1?style=for-the-badge&logo=npm&logoColor=6D214F" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
